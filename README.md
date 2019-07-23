@@ -6,6 +6,7 @@ _______________________________________________________________________
 1. For the Farmers it's hard to keep track of their expenses and income of the particular crop.
 2. Farmers has less options to choose betweens the crop to cultivate in their Land.
 3. To help farmers increase their product with less fertilizers and pesticides.
+4. To create Transpiracy in the crop that the consumers are consuming. For this We create Profile for Each of the Crop (But the profile is private By Default) If the Framers has decided to do e-commerce Stuff with us we can ask them to make their Crop Profile Public so that End User can Know what they are eating.
 
 ### What am I trying to solve? 
 1. To keep track of the crop product so that we can visualize the income and expenditure on the certain crops.
